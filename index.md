@@ -13,3 +13,6 @@ This website is to showcase my porgrams that I have done. My favourite topic in 
 ## Header 2
 
 This is the newest piece of graphics prgramming that I did. We used DX11 to create a scene.
+
+### Large image
+![DX11 Screenshot](https://github.com/Arnas-Droid/Portfolio/blob/main/Assests/DX11.PNG)
