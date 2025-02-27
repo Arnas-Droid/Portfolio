@@ -19,6 +19,8 @@ This is the newest piece of graphics prgramming that I did. We used DX11 to crea
 
 ![Book logo](/Arnas-Droid/Portfolio/blob/main/assets/DX11.PNG)
 
+![Book logo](https://github.com/Arnas-Droid/Portfolio/blob/main/assets/DX11.PNG)
+
 ### Large image
 ![DX11 Screenshot](/Arnas-Droid/Portfolio/blob/main/Assests/DX11.PNG)
 
