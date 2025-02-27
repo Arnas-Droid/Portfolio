@@ -20,6 +20,10 @@ This is the newest piece of graphics prgramming that I did. We used DX11 to crea
 ### Large image
 ![DX11 Screenshot](https://github.com/Arnas-Droid/Portfolio/blob/main/Assests/DX11.PNG)
 
+### Small image
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### Large image
+![DX11 Screenshot](https://github.com/Arnas-Droid/Portfolio/blob/main/Assests/DX11.PNG)
 
 ## Header 2
 Most recent projects were physics using DX11 as graphical support and AI in Unity.
