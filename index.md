@@ -21,11 +21,8 @@ string favouriteSubject = "Graphics";
 }
 ```
 
-## Favourite subject
-For me graphics has been my favourite subject to learn about. It all started with glut, and moved to more modern API DX11.
-
 ### DX11 Graphics 
-This is the newest piece of graphics prgramming that I did. We used DX11 to create a scene.
+This is the newest piece of graphics prgramming that I did. We used DX11 to create a scene. Being my favourite topic I spent a lot time perfecting the aspects of graphics like the shadows.
 ![Image](https://github.com/user-attachments/assets/b0019e32-9e9c-4b87-9c6b-6eeac1c4e1c9)
 
 ### Glut
