@@ -3,11 +3,11 @@ layout: default
 ---
 
 # Introduction
-Hello, my name is Arnas Puidokas, a second year at Staffordshire University. My major lies in computer programming, and my favourite topic is graphics.
+Hello, my name is Arnas Puidokas, a second year at University of Staffordshire. My major lies in computer programming, and my favourite topic is graphics.
 
 
 *   My name is Arnas Puidokas.
-*   Second year in Staffordshire University.
+*   Second year in University of Staffordshire.
 *   Majoring in computer programming.
 *   Favourite topic is graphics.
 
@@ -15,7 +15,7 @@ Hello, my name is Arnas Puidokas, a second year at Staffordshire University. My 
 {
 string name = "Arnas Puidokas";
 int year = Second year;
-string uni = "Stafforshire Univeristy";
+string uni = "University of Staffordshire";
 string major = "Computer Programming";
 string favouriteSubject = "Graphics";
 }
