@@ -15,9 +15,10 @@ This is the newest piece of graphics prgramming that I did. We used DX11 to crea
 ![Image](https://github.com/user-attachments/assets/b0019e32-9e9c-4b87-9c6b-6eeac1c4e1c9)
 
 ### Glut
-This is the newest piece of graphics prgramming that I did. We used DX11 to create a scene.
+This is the scene I created through Glut.
 
 ### Physics Render
+
 ![Image](https://github.com/user-attachments/assets/22a6360d-def4-4cd1-b4e6-82091304679b)
 
 ### Unity AI
@@ -25,9 +26,8 @@ This is the newest piece of graphics prgramming that I did. We used DX11 to crea
 ### Multiplayer
 
 ### Bespoke
+![Image](https://github.com/user-attachments/assets/c7da46fa-47af-4207-96be-c3dc089c7628)
 
 ### Introduction to Unreal
 
 ### Introduction to Unity (Blueprints)
-
-
