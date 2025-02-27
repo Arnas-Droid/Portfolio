@@ -3,9 +3,22 @@ layout: default
 ---
 
 # Introduction
-This website is to showcase my porgrams that I have done. My favourite topic in programming is graphics.
+Hello my name is Arnas Puidokas a second year at Staffordshire University. My major lies in computer programming and my favourite topic is graphics.
 
-(Currently work in progress website)
+
+*   My name is Arnas Puidokas.
+*   Second year in Staffordshire University.
+*   Majoring in computer programming.
+*   Favourite topic is graphics.
+
+```js
+string name = "Arnas Puidokas";
+int year = Second year;
+string uni = "Stafforshire Univeristy";
+string major = "Computer Programming";
+string favouriteSubject = "Graphics";
+}
+```
 
 ## Favourite subject
 For me graphics has been my favourite subject to learn about. It all started with glut, and moved to more modern API DX11.
@@ -31,3 +44,5 @@ This is the scene I created through Glut.
 ### Introduction to Unreal
 
 ### Introduction to Unity (Blueprints)
+
+(Currently work in progress website)
