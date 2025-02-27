@@ -14,7 +14,7 @@ This website is to showcase my porgrams that I have done. My favourite topic in 
 
 This is the newest piece of graphics prgramming that I did. We used DX11 to create a scene.
 
-### Small image
+### DX11 Graphics Render
 ![Image](https://github.com/user-attachments/assets/b0019e32-9e9c-4b87-9c6b-6eeac1c4e1c9)
 
 ## Header 2
