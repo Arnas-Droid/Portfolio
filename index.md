@@ -17,8 +17,10 @@ This is the newest piece of graphics prgramming that I did. We used DX11 to crea
 ### Small image
 ![DX11 Screenshot](https://github.com/Arnas-Droid/Portfolio/blob/main/Assests/DX11.PNG)
 
+![Book logo](/Arnas-Droid/Portfolio/blob/main/assets/DX11.PNG)
+
 ### Large image
-![DX11 Screenshot](https://github.com/Arnas-Droid/Portfolio/blob/main/Assests/DX11.PNG)
+![DX11 Screenshot](/Arnas-Droid/Portfolio/blob/main/Assests/DX11.PNG)
 
 ### Small image
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
