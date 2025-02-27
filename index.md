@@ -17,9 +17,17 @@ This is the newest piece of graphics prgramming that I did. We used DX11 to crea
 ### Glut
 This is the newest piece of graphics prgramming that I did. We used DX11 to create a scene.
 
-## Header 2
-Most recent projects were physics using DX11 as graphical support and AI in Unity.
-
 ### Physics Render
 ![Image](https://github.com/user-attachments/assets/22a6360d-def4-4cd1-b4e6-82091304679b)
+
+### Unity AI
+
+### Multiplayer
+
+### Bespoke
+
+### Introduction to Unreal
+
+### Introduction to Unity (Blueprints)
+
 
