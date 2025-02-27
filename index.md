@@ -17,20 +17,6 @@ This is the newest piece of graphics prgramming that I did. We used DX11 to crea
 ### Small image
 ![Image](https://github.com/user-attachments/assets/b0019e32-9e9c-4b87-9c6b-6eeac1c4e1c9)
 
-![Book logo](/Arnas-Droid/Portfolio/blob/main/assets/DX11.PNG)
-
-![Book logo](https://github.com/Arnas-Droid/Portfolio/blob/main/assets/DX11.PNG)
-
-### Large image
-![DX11 Screenshot](/Arnas-Droid/Portfolio/blob/main/Assests/DX11.PNG)
-
-### Small image
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-### Large image
-![DX11 Screenshot](https://github.com/Arnas-Droid/Portfolio/blob/main/Assests/DX11.PNG)
-
 ## Header 2
 Most recent projects were physics using DX11 as graphical support and AI in Unity.
 
-### Small image
-![Physics Screenshot](https://github.com/Arnas-Droid/Portfolio/blob/main/Assests/Physics.PNG)
