@@ -11,7 +11,8 @@ Hello my name is Arnas Puidokas a second year at Staffordshire University. My ma
 *   Majoring in computer programming.
 *   Favourite topic is graphics.
 
-```js
+```c++
+{
 string name = "Arnas Puidokas";
 int year = Second year;
 string uni = "Stafforshire Univeristy";
