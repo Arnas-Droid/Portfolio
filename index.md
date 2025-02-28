@@ -3,13 +3,6 @@ layout: default
 ---
 
 # Introduction
-Hello, my name is Arnas Puidokas, a second year at University of Staffordshire. My major lies in computer programming, and my favourite topic is graphics.
-
-
-*   My name is Arnas Puidokas.
-*   Second year in University of Staffordshire.
-*   Majoring in computer programming.
-*   Favourite topic is graphics.
 
 ```c++
 {
