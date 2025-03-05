@@ -6,11 +6,11 @@ layout: default
 
 ```c++
 {
-string name = "Arnas Puidokas";
-int year = Second year;
-string uni = "University of Staffordshire";
-string major = "Computer Programming";
-string favouriteSubject = "Graphics";
+  string name = "Arnas Puidokas";
+  int year = Second year;
+  string uni = "University of Staffordshire";
+  string major = "Computer Programming";
+  string favouriteSubject = "Graphics";
 }
 ```
 
