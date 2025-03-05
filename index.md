@@ -18,8 +18,8 @@ layout: default
 This module looked at creating a structured 3D environment with a programmable pipeline for rendering lighting and shading models. The end result allowed me to have a beautifully rendered environment. It is currently my favourite piece of work that I have done so far.
 ![Image](https://github.com/user-attachments/assets/b0019e32-9e9c-4b87-9c6b-6eeac1c4e1c9)
 https://github.com/user-attachments/assets/726c24c5-44f7-40a4-a7e0-123e6b37da9c.mp4
-[![Watch the video](https://raw.githubusercontent.com/Arnas-Droid/Portfolio/main/assets/thumbnail.jpg)]
-
+[![Watch the video](https://raw.githubusercontent.com/Arnas-Droid/Portfolio/main/assets/DX11Framework_Q64r8ttVDu.mp4)]
+assets/DX11Framework_Q64r8ttVDu.mp4
 ### Physics Render
 This module looked at grasping the mathematical basis of physical systems and building computer-based simulation. The end result allowed me to have forces that are akin to Isaac Newton's law and collisions.
 ![Image](https://github.com/user-attachments/assets/22a6360d-def4-4cd1-b4e6-82091304679b)
