@@ -7,7 +7,7 @@ layout: default
 ```c++
 {
   string name = "Arnas Puidokas";
-  int year = Second year;
+  int year = Third year;
   string uni = "University of Staffordshire";
   string major = "Computer Programming";
   string favouriteSubject = "Graphics";
