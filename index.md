@@ -19,9 +19,20 @@ Was the highlight of second year where I worked among a group of developers from
 
 <video controls autoplay>
   <source src="Echoes of Imagination.mp4" type="video/mp4">
-  <source src="movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls autoplay>
+  <source src="[Echoes of Imagination.mp4](https://github.com/user-attachments/assets/972daf70-311b-47bd-a188-1aee017c6ae1)" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
+</video>
+
+<video controls autoplay>
+![Video](https://github.com/user-attachments/assets/972daf70-311b-47bd-a188-1aee017c6ae1)
+</video>
+
+<video src="https://github.com/user-attachments/assets/972daf70-311b-47bd-a188-1aee017c6ae1.mp4" controls="controls" style="max-width: 730px;"
 </video>
 
 ### Direct11 Graphics 
