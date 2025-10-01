@@ -32,6 +32,9 @@ Was the highlight of second year where I worked among a group of developers from
 ![Video](https://github.com/user-attachments/assets/972daf70-311b-47bd-a188-1aee017c6ae1)
 </video>
 
+<video src="https://github.com/user-attachments/assets/972daf70-311b-47bd-a188-1aee017c6ae1.mp4" controls="controls" style="max-width: 730px;"
+</video>
+
 ### Direct11 Graphics 
 This module looked at creating a structured 3D environment with a programmable pipeline for rendering lighting and shading models. The end result allowed me to have a beautifully rendered environment. It is currently my favourite piece of work that I have done so far.
 ![Image](https://github.com/user-attachments/assets/b0019e32-9e9c-4b87-9c6b-6eeac1c4e1c9)
