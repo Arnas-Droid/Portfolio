@@ -19,7 +19,7 @@ Was the highlight of second year where I worked among a group of developers from
 
 <div class="embed-container">
     <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/{{ hXlKtwVcpxY }}" 
+    src="https://www.youtube.com/embed/hXlKtwVcpxY" 
     frameborder="0" allowfullscreen></iframe>
 </div>
 <style>
