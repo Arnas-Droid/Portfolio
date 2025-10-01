@@ -17,62 +17,6 @@ layout: default
 ### Junior Collaborative Development
 Was the highlight of second year where I worked among a group of developers from Stoke and London.  
 
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/hXlKtwVcpxY" 
-    frameborder="0" allowfullscreen></iframe>
-</div>
-<style>
-.embed-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
-
-<video controls autoplay>
-  <source src="Echoes of Imagination.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="320" height="240" controls autoplay>
-  <source src="[Echoes of Imagination.mp4](https://github.com/user-attachments/assets/972daf70-311b-47bd-a188-1aee017c6ae1)" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-
-<video controls autoplay>
-![Video](https://github.com/user-attachments/assets/972daf70-311b-47bd-a188-1aee017c6ae1)
-</video>
-
-<video src="https://github.com/user-attachments/assets/972daf70-311b-47bd-a188-1aee017c6ae1.mp4" controls="controls" style="max-width: 730px;"
-</video>
-
-<video width="640" height="360" controls>
-  <source src="[video](https://github.com/user-attachments/assets/0bcb156f-05a6-4d02-8c51-39b09a5203b5).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="640" height="360" controls>
-  <source src="(https://github.com/user-attachments/assets/0bcb156f-05a6-4d02-8c51-39b09a5203b5).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="640" height="360" controls>
-  <source src="assets/DX11Framework.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ### Direct11 Graphics 
 This module looked at creating a structured 3D environment with a programmable pipeline for rendering lighting and shading models. The end result allowed me to have a beautifully rendered environment. It is currently my favourite piece of work that I have done so far.
