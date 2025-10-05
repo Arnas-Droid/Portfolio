@@ -29,6 +29,20 @@ This module looked at creating a structured 3D environment with a programmable
   </iframe>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p><strong>Watch this video:</strong></p>
+    <p>This video explains the concept in detail. Make sure to take notes!</p>
+  </div>
+  <div style="flex: 1;">
+    <iframe width="100%" height="315" 
+      src="https://www.youtube.com/embed/hXlKtwVcpxY" 
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
 ### GLUT Graphics
 This module introduced me into graphics programming.
 ![Image](https://github.com/user-attachments/assets/105dd4aa-e3f3-4ee1-9ebc-7fbf879c5775)
