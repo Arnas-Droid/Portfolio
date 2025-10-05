@@ -66,7 +66,7 @@ layout: default
     <p>This module looked at grasping the mathematical basis of physical systems and building computer-based simulation. The end result allowed me to have forces that are akin to Isaac Newton's law and collisions.</p>
   </div>
   <div style="flex: 1;">
-    ![Image](https://github.com/user-attachments/assets/22a6360d-def4-4cd1-b4e6-82091304679b)
+ 
   </div>
 </div>
 
