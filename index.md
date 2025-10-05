@@ -9,7 +9,7 @@ layout: default
   string name = "Arnas Puidokas";
   int year = Third year;
   string uni = "University of Staffordshire";
-  string major = "Computer Programming";
+  string major = "Computer Games Programming";
   string favouriteSubject = "Graphics";
 }
 ```
