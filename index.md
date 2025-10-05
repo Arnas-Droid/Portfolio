@@ -78,7 +78,7 @@ layout: default
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>Gravity Bind: Space Edition</strong></p>
-    <p>This module focused more on the design aspect of games since I had to look into game design principles and project management. The end result allowed me to export the program to the Evercade.</p>
+    <p>During this project I created a game that was ported to the Evercade after following the proper procedure when creating a game. This included a research period, development period and porting period. It taught me how to investigate game design principles and project management, which without I wouldn’t have been able to create a fully fledge out game that was ported. Common struggles involved were porting to Evercade since it wasn’t as simple as pressing a couple of buttons and having worked on it so much throughout the period of the project, I devised my own method of step by step that always worked.</p>
   </div>
   <div style="flex: 1;">
     <iframe width="100%" height="315" 
