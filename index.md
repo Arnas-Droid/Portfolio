@@ -13,7 +13,7 @@ layout: default
   string favouriteSubject = "Graphics";
 }
 ```
-
+## Favourite Projects 
 ### Junior Collaborative Development
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
