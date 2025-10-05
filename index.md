@@ -29,6 +29,7 @@ layout: default
   </div>
 </div>
 
+
 ### DirectX11 Graphics 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
@@ -43,6 +44,7 @@ layout: default
     </iframe>
   </div>
 </div>
+
 
 ### GLUT Graphics
 <div style="display: flex; align-items: center;">
@@ -59,6 +61,7 @@ layout: default
   </div>
 </div>
 
+
 ### Physics Render
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
@@ -69,6 +72,7 @@ layout: default
  
   </div>
 </div>
+
 
 ### Bespoke
 <div style="display: flex; align-items: center;">
