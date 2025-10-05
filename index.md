@@ -18,21 +18,11 @@ layout: default
 Was the highlight of second year where I worked among a group of developers from Stoke and London.  
 
 
-### Direct11 Graphics 
-This module looked at creating a structured 3D environment with a programmable pipeline for rendering lighting and shading models. The end result allowed me to have a beautifully rendered environment. It is currently my favourite piece of work that I have done so far.
-
-<div style="text-align:right;">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/hXlKtwVcpxY" 
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
-</div>
-
+### DirectX11 Graphics 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    <p><strong>Watch this video:</strong></p>
-    <p>This video explains the concept in detail. Make sure to take notes!</p>
+    <p><strong>Witch Forest:</strong></p>
+    <p>This module looked at creating a structured 3D environment with a programmable pipeline for rendering lighting and shading models. The end result allowed me to have a beautifully rendered environment. It is currently my favourite piece of work that I have done so far.</p>
   </div>
   <div style="flex: 1;">
     <iframe width="100%" height="315" 
