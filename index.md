@@ -18,7 +18,7 @@ layout: default
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>Echoes of Imagination</strong></p>
-    <p>Was the highlight of second year where I worked among a group of developers from Stoke and London.  </p>
+    <p>During the project I worked with a group of developers from Stoke-on-Trent and London to create Echoes of Imagination. For my role I worked as a gameplay programmer using Unreal’s blueprinting and made mechanics such as the movement, turn based system and other minor mechanics. Along this journey I hoped to learn C++ for Unreal, however due to medical reasons it was better at the time to work purely work through blueprints. Besides making mechanic and fixing any bugs, I worked closely with the leads to make sure that I contributed as much as possible.</p>
   </div>
   <div style="flex: 1;">
     <iframe width="100%" height="315" 
