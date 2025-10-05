@@ -20,26 +20,14 @@ Was the highlight of second year where I worked among a group of developers from
 
 ### Direct11 Graphics 
 This module looked at creating a structured 3D environment with a programmable pipeline for rendering lighting and shading models. The end result allowed me to have a beautifully rendered environment. It is currently my favourite piece of work that I have done so far.
-![Image](https://github.com/user-attachments/assets/b0019e32-9e9c-4b87-9c6b-6eeac1c4e1c9)
 
-[![Watch the Video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=hXlKtwVcpxY)
-
-
-<div style="text-align:center;">
+<div style="text-align:right;">
   <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/hXlKtwVcpxY" 
     frameborder="0" 
     allowfullscreen>
   </iframe>
 </div>
-
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/hXlKtwVcpxY" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
 
 ### GLUT Graphics
 This module introduced me into graphics programming.
