@@ -24,6 +24,23 @@ This module looked at creating a structured 3D environment with a programmable
 
 [![Watch the Video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=hXlKtwVcpxY)
 
+
+<div style="text-align:center;">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/hXlKtwVcpxY" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/hXlKtwVcpxY" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
 ### GLUT Graphics
 This module introduced me into graphics programming.
 ![Image](https://github.com/user-attachments/assets/105dd4aa-e3f3-4ee1-9ebc-7fbf879c5775)
