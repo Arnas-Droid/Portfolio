@@ -15,8 +15,19 @@ layout: default
 ```
 
 ### Junior Collaborative Development
-Was the highlight of second year where I worked among a group of developers from Stoke and London.  
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p><strong>Witch Forest:</strong></p>
+    <p>Was the highlight of second year where I worked among a group of developers from Stoke and London.  </p>
+  </div>
+  <div style="flex: 1;">
+    <iframe width="100%" height="315" 
+      src="https://www.youtube.com/embed/1EM_pRcLbC0" 
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 ### DirectX11 Graphics 
 <div style="display: flex; align-items: center;">
@@ -44,5 +55,3 @@ This module looked at grasping the mathematical basis of physical systems and bu
 ### Bespoke
 This module focused more on the design aspect of games since I had to look into game design principles and project management. The end result allowed me to export the program to the Evercade.
 ![Image](https://github.com/user-attachments/assets/c7da46fa-47af-4207-96be-c3dc089c7628)
-
-(Currently work in progress website)
