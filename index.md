@@ -66,7 +66,7 @@ layout: default
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>Simple Physics Program</strong></p>
-    <p>This module looked at grasping the mathematical basis of physical systems and building computer-based simulation. The end result allowed me to have forces that are akin to Isaac Newton's law and collisions.</p>
+    <p>During this project I created a simple physics program that had point mass physics to simulate basic forces such as velocity and acceleration, where I personally expanded to have gravity and drag. Also implemented rigid body physics to simulate rotation of objects through Quaternions, Inertia Tensor and Moment of Inertia. In the end having similar logic to Issac Newton's laws and collisions. Didn’t have to go through too much struggle through this project since anything like equations and functions that already exist in real life could be research and converted into C++ code. With one major setback being at the end of the project where after iterating and simplifying code made it function worse than in previous states.</p>
   </div>
   <div style="flex: 1;">
  
