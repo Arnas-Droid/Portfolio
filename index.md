@@ -37,7 +37,7 @@ layout: default
   </div>
   <div style="flex: 1;">
     <iframe width="100%" height="315" 
-      src="https://www.youtube.com/embed/hXlKtwVcpxY" 
+      src="https://www.youtube.com/embed/Kt8N6w_XSY0" 
       frameborder="0" 
       allowfullscreen>
     </iframe>
@@ -45,13 +45,49 @@ layout: default
 </div>
 
 ### GLUT Graphics
-This module introduced me into graphics programming.
-![Image](https://github.com/user-attachments/assets/105dd4aa-e3f3-4ee1-9ebc-7fbf879c5775)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p><strong>Gravity Bind: Space Edition</strong></p>
+    <p>This module introduced me into graphics programming.</p>
+  </div>
+  <div style="flex: 1;">
+    <iframe width="100%" height="315" 
+      src="https://www.youtube.com/embed/FTKs_DLZeZY" 
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 ### Physics Render
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p><strong>Gravity Bind: Space Edition</strong></p>
+    <p>This module introduced me into graphics programming.</p>
+  </div>
+  <div style="flex: 1;">
+    <iframe width="100%" height="315" 
+      src="https://www.youtube.com/embed/FTKs_DLZeZY" 
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
 This module looked at grasping the mathematical basis of physical systems and building computer-based simulation. The end result allowed me to have forces that are akin to Isaac Newton's law and collisions.
 ![Image](https://github.com/user-attachments/assets/22a6360d-def4-4cd1-b4e6-82091304679b)
 
 ### Bespoke
-This module focused more on the design aspect of games since I had to look into game design principles and project management. The end result allowed me to export the program to the Evercade.
-![Image](https://github.com/user-attachments/assets/c7da46fa-47af-4207-96be-c3dc089c7628)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p><strong>Gravity Bind: Space Edition</strong></p>
+    <p>This module focused more on the design aspect of games since I had to look into game design principles and project management. The end result allowed me to export the program to the Evercade.</p>
+  </div>
+  <div style="flex: 1;">
+    <iframe width="100%" height="315" 
+      src="https://www.youtube.com/embed/FTKs_DLZeZY" 
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
