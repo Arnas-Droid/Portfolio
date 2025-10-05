@@ -52,7 +52,7 @@ layout: default
   </div>
   <div style="flex: 1;">
     <iframe width="100%" height="315" 
-      src="https://www.youtube.com/embed/FTKs_DLZeZY" 
+      src="https://www.youtube.com/embed/Kt8N6w_XSY0" 
       frameborder="0" 
       allowfullscreen>
     </iframe>
