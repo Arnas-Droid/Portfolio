@@ -50,7 +50,7 @@ layout: default
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>Simple Render Program</strong></p>
-    <p>During this project I got introduced to graphics programming through OpenGL and didn’t really speak to me due to struggles with rendering from file. While it was working for the most part there was parts that were missing when rendering to screen.</p>
+    <p>During this project I got introduced to graphics programming through OpenGL and didn’t really speak to me due to struggles with rendering from file. While it was working for the most part there was parts that were missing when rendering to screen. Other than that, though this project at a very basic level showed how to work with OpenGL and I created simple movement, camera system, and more inner workings.</p>
   </div>
   <div style="flex: 1;">
     <iframe width="100%" height="315" 
