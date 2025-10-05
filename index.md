@@ -18,6 +18,7 @@ layout: default
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>Echoes of Imagination</strong></p>
+    <p><strong>### Junior Collaborative Development</strong></p>
     <p>Was the highlight of second year where I worked among a group of developers from Stoke and London.  </p>
   </div>
   <div style="flex: 1;">
