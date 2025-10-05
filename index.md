@@ -46,7 +46,7 @@ layout: default
 </div>
 
 
-### GLUT Graphics
+### Introduction to Graphics Programming
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>Simple Render Program</strong></p>
@@ -62,7 +62,7 @@ layout: default
 </div>
 
 
-### Physics Render
+### Applied Mathmatics for Games
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>Simple Physics Program</strong></p>
@@ -74,7 +74,7 @@ layout: default
 </div>
 
 
-### Bespoke
+### Bespoke Platform Devlopment
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>Gravity Bind: Space Edition</strong></p>
