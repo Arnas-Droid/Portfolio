@@ -17,7 +17,7 @@ layout: default
 ### Junior Collaborative Development
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    <p><strong>Witch Forest:</strong></p>
+    <p><strong>Echoes of Imagination</strong></p>
     <p>Was the highlight of second year where I worked among a group of developers from Stoke and London.  </p>
   </div>
   <div style="flex: 1;">
@@ -32,7 +32,7 @@ layout: default
 ### DirectX11 Graphics 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    <p><strong>Witch Forest:</strong></p>
+    <p><strong>Witch Forest</strong></p>
     <p>This module looked at creating a structured 3D environment with a programmable pipeline for rendering lighting and shading models. The end result allowed me to have a beautifully rendered environment. It is currently my favourite piece of work that I have done so far.</p>
   </div>
   <div style="flex: 1;">
@@ -47,7 +47,7 @@ layout: default
 ### GLUT Graphics
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    <p><strong>Gravity Bind: Space Edition</strong></p>
+    <p><strong>Simple Render Program</strong></p>
     <p>This module introduced me into graphics programming.</p>
   </div>
   <div style="flex: 1;">
@@ -62,19 +62,15 @@ layout: default
 ### Physics Render
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    <p><strong>Gravity Bind: Space Edition</strong></p>
-    <p>This module introduced me into graphics programming.</p>
+    <p><strong>Simple Physics Program</strong></p>
+    <p>This module looked at grasping the mathematical basis of physical systems and building computer-based simulation. The end result allowed me to have forces that are akin to Isaac Newton's law and collisions.</p>
   </div>
   <div style="flex: 1;">
-    <iframe width="100%" height="315" 
-      src="https://www.youtube.com/embed/FTKs_DLZeZY" 
-      frameborder="0" 
-      allowfullscreen>
-    </iframe>
+    ![Image](https://github.com/user-attachments/assets/22a6360d-def4-4cd1-b4e6-82091304679b)
   </div>
 </div>
 
-This module looked at grasping the mathematical basis of physical systems and building computer-based simulation. The end result allowed me to have forces that are akin to Isaac Newton's law and collisions.
+
 ![Image](https://github.com/user-attachments/assets/22a6360d-def4-4cd1-b4e6-82091304679b)
 
 ### Bespoke
