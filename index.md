@@ -13,6 +13,22 @@ layout: default
   string favouriteSubject = "Graphics";
 }
 ```
+## Personal Projects
+### Arcade
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p><strong>Arcade</strong></p>
+    <p>Started a project to make little games for my phone. Mostly to make and then play games that look intresting without ads.</p>
+  </div>
+  <div style="flex: 1;">
+    <iframe width="100%" height="315" 
+      src="https://www.youtube.com/embed/f11iR2Dcong" 
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
 ## Favourite Projects 
 ### Junior Collaborative Development
 <div style="display: flex; align-items: center;">
