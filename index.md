@@ -14,7 +14,7 @@ layout: default
 }
 ```
 
-## Best Project 
+## Best Project (University Project)
 ### DirectX11 Graphics 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
