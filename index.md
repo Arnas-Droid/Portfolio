@@ -46,7 +46,7 @@ https://github.com/Arnas-Droid/Portfolio/blob/main/FavouriteProject.md
 
 <p>The image below is a link. Try to click on it.</p>
 
-<a href="{{< ref "FavouriteProject" >}}"><img src="WitchForest.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="{{< ref "FavouriteProject.md" >}}"><img src="WitchForest.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 
 </body>
 </html>
