@@ -18,10 +18,8 @@ layout: default
 }
 ```
 
-
 <html>
 <body>
-
 <h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
@@ -39,8 +37,10 @@ layout: default
 </body>
 </html>
 
-## Personal Project
-### Arcade
+<html>
+<body>
+<h1 style="text-align:center;">Personal Project</h1>
+<h2 style="text-align:left;">Arcade</h1>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>Arcade</strong></p>
@@ -54,6 +54,8 @@ layout: default
     </iframe>
   </div>
 </div>
+</body>
+</html>
 
 ## University Projects
 ### Junior Collaborative Development
