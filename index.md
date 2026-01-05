@@ -40,7 +40,7 @@ layout: default
 <html>
 <body>
 <h1 style="text-align:center;">Personal Project</h1>
-<h2 style="text-align:left;">Arcade</h1>
+<h2 style="text-align:left;">Arcade</h2>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>Arcade</strong></p>
