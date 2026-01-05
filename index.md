@@ -43,7 +43,6 @@ layout: default
 <h2 style="text-align:left;">Arcade</h2>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    <p><strong>Arcade</strong></p>
     <p>Started a project to make little games for my phone. Mostly to make and then play games that look intresting without ads.</p>
   </div>
   <div style="flex: 1;">
