@@ -14,6 +14,16 @@ layout: default
 }
 ```
 
+
+<html>
+<body>
+
+<h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
+<p style="text-align:center;">Centered paragraph.</p>
+
+</body>
+</html>
+
 ## Best Project (University Project)
 ### DirectX11 Graphics 
 <div style="display: flex; align-items: center;">
