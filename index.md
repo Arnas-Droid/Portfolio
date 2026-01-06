@@ -33,11 +33,7 @@ layout: default
   <div class="overlay">Witch Forest</div>
 </div>
 </div>
-</body> 
-</html>
 
-<html> 
-<body> 
 <h1 style="text-align:center;">Personal Project</h1>
 <div style="text-align:center;">
 <div class="container">
