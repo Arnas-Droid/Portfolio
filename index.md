@@ -6,10 +6,13 @@ layout: default
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_string }}
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
     </li>
   {% endfor %}
 </ul>
+
+<!-- Debugging Output -->
+<p>Total posts: {{ site.posts | size }}</p>
 
 <html>
 <body>
