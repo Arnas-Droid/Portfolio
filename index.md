@@ -41,7 +41,6 @@ layout: default
 </body>
 </html>
 
-## University Projects
 <html> 
 <body> 
 <h1 style="text-align:center;">University Projects</h1>
