@@ -51,6 +51,8 @@ layout: default
 </body>
 </html>
 
+[Go to Favourite Project]({{< relref "favouriteproject.md" >}})
+
 <html>
 <body>
 <h1 style="text-align:center;">Personal Project</h1>
