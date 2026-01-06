@@ -19,8 +19,6 @@ layout: default
 }
 ```
 
-<html>
-<body>
 <h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
 <div class="container" style="text-align:center;">
   <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
@@ -31,34 +29,17 @@ layout: default
   </a>
   <div class="overlay">Witch Forest</div>
 </div>
-</body>
-</html>
 
-
-<html>
-<body>
-<h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
-<div class="container">
-<div style="text-align: center;">
-  <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}"> 
-    <img class="enlarge-onhover" src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:600px;height:300px;"> 
-  </a> 
-<div class="overlay">My Name is John</div>
-</div>
-</div>
-</body>
-</html>
-
-<html>
-<body>
 <h1 style="text-align:center;">Personal Project</h1>
-<div style="text-align: center;"> 
-  <a href="{{ '/2001/01/01/arcade.html' | relative_url }}"> 
-    <img class="enlarge-onhover" src="{{ '/assets/Arcade.png' | relative_url }}" alt="Arcade Games" style="width:600px;height:300px;"> 
-  </a> 
+<div class="container" style="text-align:center;">
+  <a href="{{ '/2001/01/01/arcade.html' | relative_url }}">
+    <img class="enlarge-onhover"
+         src="{{ '/assets/Arcade.png' | relative_url }}"
+         alt="Arcade Gamest"
+         style="width:600px;height:300px;">
+  </a>
+  <div class="overlay">Arcade</div>
 </div>
-</body>
-</html>
 
 <html> 
 <body> 
