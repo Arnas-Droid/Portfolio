@@ -10,10 +10,14 @@
 
 .enlarge-onhover:hover {
     border-radius: 10px;
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 
 .image-wrapper {
     display: inline-block;
     overflow: visible;
+}
+
+img {
+  border: 5px solid #555555;
 }
