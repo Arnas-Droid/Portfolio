@@ -23,7 +23,7 @@ layout: default
 <body>
 <h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
 <div style="text-align: center;"> 
-  <a href="{{ '/2000/01/01/witchforest.html' | relative_url }"> 
+  <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}"> 
     <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:315px;height:315px;"> 
   </a> 
 </div>
