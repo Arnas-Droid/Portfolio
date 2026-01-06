@@ -43,6 +43,32 @@ layout: default
 </html>
 
 ## University Projects
+<html> 
+<body> 
+<h1 style="text-align:center;">University Projects</h1>
+<div style="display:flex; flex-direction:column; align-items:center; gap:20px;"> 
+
+  <div style="display:flex; justify-content:center; gap:20px;"> 
+    <a href="{{ '/2026/01/06/unity.html' | relative_url }}"> 
+      <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:315px;height:315px;"> 
+    </a>   
+    <a href="{{ '/2026/01/06/another.html' | relative_url }}"> 
+      <img src="{{ '/assets/AnotherImage.png' | relative_url }}" alt="Another Image" style="width:315px;height:315px;"> </a> 
+  </div>
+  
+  <div style="display:flex; justify-content:center; gap:20px;"> 
+   <a href="{{ '/2026/01/06/third.html' | relative_url }}"> 
+      <img src="{{ '/assets/ThirdImage.png' | relative_url }}" alt="Third Image" style="width:315px;height:315px;">
+    </a> 
+    <a href="{{ '/2026/01/06/fourth.html' | relative_url }}"> 
+      <img src="{{ '/assets/FourthImage.png' | relative_url }}" alt="Fourth Image" style="width:315px;height:315px;"> 
+   </a> 
+  </div> 
+</div> 
+</body> 
+</html>
+
+
 ### Junior Collaborative Development
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
