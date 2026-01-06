@@ -28,7 +28,7 @@ layout: default
     <img class="enlarge-onhover"
          src="{{ '/assets/WitchForest.png' | relative_url }}"
          alt="Witch Forest"
-         style="width:600px;height:300px;">
+         style="width:800px;height:300px;">
   </a>
   <div class="overlay">Witch Forest</div>
 </div>
@@ -45,7 +45,7 @@ layout: default
     <img class="enlarge-onhover"
          src="{{ '/assets/Arcade.png' | relative_url }}"
          alt="Arcade Gamest"
-         style="width:600px;height:300px;">
+         style="width:800px;height:300px;">
   </a>
   <div class="overlay">Arcade</div>
 </div>
