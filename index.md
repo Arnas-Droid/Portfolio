@@ -66,6 +66,10 @@ https://github.com/Arnas-Droid/Portfolio/blob/main/FavouriteProject.md
 </body>
 </html>
 
+<a href="/favouriteproject/">
+  <img src="/images/WitchForest.png" alt="Favourite Project" width="42" height="42">
+</a>
+
 <html>
 <body>
 <h1 style="text-align:center;">Personal Project</h1>
