@@ -1,7 +1,6 @@
 ---
-layout: "post"
+layout: post
 title: "Graphics post"
-date: 2020-12-20
+date: 2026-01-06 12:00:00 -0000
 ---
-
-Hello
+This is the content of my first post!
