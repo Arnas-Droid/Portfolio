@@ -2,16 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-.enlarge-onhover {
-    width: 800px;
-    height: 400px;
-    transition: transform 0.3s ease, border-radius 0.3s ease;
-}
-
-.enlarge-onhover:hover {
-    border-radius: 10px;
-    transform: scale(1.05);
-}
 
 img {
   border: 5px solid #555555;
@@ -29,11 +19,13 @@ img {
     display: block; 
     width: 100%;  
     height: 300px;
-    transition: transform 0.3s ease;
+    border: 5px solid #555555;
+    transition: transform 0.3s ease, border-radius 0.3s ease;
 }
 
 .container:hover img {
     transform: scale(1.05);
+    border-radius: 10px;
 }
 
 .overlay {
