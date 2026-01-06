@@ -3,7 +3,7 @@
 @import "{{ site.theme }}";
 
 .enlarge-onhover {
-    width: 800x;
+    width: 800px;
     height: 400px;
     transition: transform 0.3s ease, border-radius 0.3s ease;
 }
@@ -20,6 +20,8 @@ img {
 .container {
     position: relative;
     display: inline-block;
+    width: 800px;
+    margin: 0 auto; 
 }
 
 .container img {
