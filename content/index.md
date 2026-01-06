@@ -53,7 +53,7 @@ https://github.com/Arnas-Droid/Portfolio/blob/main/FavouriteProject.md
 <body>
 <h2>Image as a Link</h2>
 <p>The image below is a link. Try to click on it.</p>
-<a href="{{< ref "/blob/main/FavouriteProject.md" >}}"><img src="WitchForest.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="{{< ref "[/blob/main/FavouriteProject.md](https://github.com/Arnas-Droid/Portfolio/blob/8060048829a24e68e64813361709fc8c3ff0cf3e/Content/FavouriteProject.md)" >}}"><img src="WitchForest.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 </body>
 </html>
 
@@ -65,6 +65,10 @@ https://github.com/Arnas-Droid/Portfolio/blob/main/FavouriteProject.md
 [CheckThis!](FavouriteProject.md)
 </body>
 </html>
+
+<a href="/favouriteproject/">
+  <img src="/images/WitchForest.png" alt="Favourite Project" width="42" height="42">
+</a>
 
 <html>
 <body>
