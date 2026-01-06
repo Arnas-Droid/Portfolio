@@ -15,44 +15,41 @@ img {
   border: 5px solid #555555;
   display: block;
   width: 100%;
-  height: 300px;
+  height: auto; /* Ensure height is proportional based on width */
   transition: transform 0.3s ease, border-radius 0.3s ease;
   box-sizing: border-box;
+  object-fit: cover; /* Ensures the image fits correctly within the container */
 }
 
+/* Container styling */
 .container {
-    position: relative;
-    width: 100%; 
-    max-width: 800px;
-    height: auto;  
-    margin: 20px auto;  
-    overflow: hidden;
-    padding: 5px;
+  position: relative;
+  width: 100%;  /* Makes the container resize based on the screen width */
+  max-width: 800px;  /* Limits the container to 800px wide */
+  margin: 20px auto;  /* Centers the container */
+  overflow: hidden;  /* Prevents zoomed image from spilling out */
+  padding: 5px;
+  height: auto;  /* Allow container to adjust height according to image */
+  display: inline-block; /* Makes the container inline block so it sizes up with the image */
 }
 
-.container img {
-    display: block;
-    width: 100%;  
-    height: 300px;
-    border: 5px solid #555555;
-    transition: transform 0.3s ease, border-radius 0.3s ease;
-}
-
+/* Image hover effect */
 .container img:hover {
-    transform: scale(1.05);
-    border-radius: 10px;
+  transform: scale(1.05);  /* Image zooms in */
+  border-radius: 10px;  /* Rounded corners on hover */
 }
 
+/* Overlay styling */
 .overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    color: white;
-    font-size: 24px;
-    background: rgba(0, 0, 0, 0.6);
-    padding: 12px;
-    box-sizing: border-box;
-    pointer-events: none;
-    text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: white;
+  font-size: 24px;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 12px;
+  box-sizing: border-box;
+  pointer-events: none;
+  text-align: center;
 }
