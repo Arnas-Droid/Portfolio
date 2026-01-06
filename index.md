@@ -19,14 +19,27 @@ layout: default
 }
 ```
 
+<div class="container" style="text-align:center;">
+  <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
+    <img class="enlarge-onhover"
+         src="{{ '/assets/WitchForest.png' | relative_url }}"
+         alt="Witch Forest"
+         style="width:600px;height:300px;">
+  </a>
+  <div class="overlay">My Name is John</div>
+</div>
+
+
+
 <html>
 <body>
 <h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
+<div class="container">
 <div style="text-align: center;">
-<div class="image-wrapper"> 
   <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}"> 
     <img class="enlarge-onhover" src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:600px;height:300px;"> 
   </a> 
+<div class="overlay">My Name is John</div>
 </div>
 </div>
 </body>
