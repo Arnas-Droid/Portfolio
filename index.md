@@ -39,6 +39,10 @@ layout: default
 
 https://github.com/Arnas-Droid/Portfolio/blob/main/FavouriteProject.md
 
+<a href="/FavouriteProject/">
+  <img src="/images/WitchForest.png" alt="Favourite Project" width="42" height="42">
+</a>
+
 <html>
 <body>
 <h2>Image as a Link</h2>
