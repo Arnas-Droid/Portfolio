@@ -35,7 +35,7 @@ layout: default
 <h1 style="text-align:center;">Personal Project</h1>
 <div style="text-align: center;"> 
   <a href="{{ '/2001/01/01/arcade.html' | relative_url }}"> 
-    <img src="{{ '/assets/Arcade.png' | relative_url }}" alt="Witch Forest" style="width:315px;height:315px;"> 
+    <img src="{{ '/assets/Arcade.png' | relative_url }}" alt="Arcade Games" style="width:315px;height:315px;"> 
   </a> 
 </div>
 </body>
