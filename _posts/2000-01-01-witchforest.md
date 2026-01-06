@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "Witch Forest"
+title: "The Witch Forest; margin-bottom: 20px;"
 ---
 
 <html>
 <body>
-  <!-- Title Section -->
-  <h1 style="text-align: left; margin-bottom: 20px;">The Witch Forest</h1>
-
-  <!-- Video Section (Separate) -->
+  <!-- Video Section -->
   <div style="text-align: center; margin-bottom: 20px;">
     <iframe width="560" height="315" 
       src="https://www.youtube.com/embed/hXlKtwVcpxY" 
