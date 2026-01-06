@@ -24,7 +24,7 @@ layout: default
 <h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
 <div style="text-align: center;"> 
   <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}"> 
-    <img class="enlarge-onhover" img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:600px;height:300px;"> 
+    <img class="enlarge-onhover" src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:600px;height:300px;"> 
   </a> 
 </div>
 </body>

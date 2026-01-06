@@ -3,11 +3,12 @@
 @import "{{ site.theme }}";
 
 .enclarge-onhover {
-    width: 600;
-    height: 400;
+    width: 600px;
+    height: 400px;
+    transition: transform 0.3s ease, border-radius 0.3s ease;
 }
 
 .enclarge-onhover:hover {
     border-radius: 10px;
-    transform: scale(2);
+    transform: scale(1.5);
 }
