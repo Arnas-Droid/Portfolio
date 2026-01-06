@@ -3,8 +3,11 @@ title: Home
 layout: default
 ---
 
+<html> 
 <body>
 <h1 style="text-align:center;">Introduction</h1>
+</body> 
+<html> 
 
 ```c++
 {
@@ -16,15 +19,17 @@ layout: default
 }
 ```
 
-  <h1>Personal Favourite Project</h1>
-  <div class="gallery">
-    <div class="container">
-      <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
-        <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest">
-      </a>
-      <div class="overlay">Witch Forest</div>
-    </div>
+<h1>Personal Favourite Project</h1>
+<h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
+<div style="text-align:center;">
+<div class="gallery">
+  <div class="container">
+    <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
+      <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest">
+    </a>
+    <div class="overlay">Witch Forest</div>
   </div>
+</div>
 
 <html> 
 <body> 

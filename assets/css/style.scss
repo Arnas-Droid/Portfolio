@@ -2,11 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
-.post-meta, /* common meta container */
-.post-date,
-.post-author,
-.post-tags {
-    display: none;
+.post-meta,
+.post-meta .post-date,
+.post-meta .post-author,
+.post-meta .post-tags {
+    display: none !important;
 }
 
 img {
