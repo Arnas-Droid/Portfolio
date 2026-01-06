@@ -19,6 +19,8 @@ title: Home
 }
 ```
 
+<html> 
+<body>
 <h1>Personal Favourite Project</h1>
 <h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
 <div style="text-align:center;">
@@ -30,6 +32,8 @@ title: Home
     <div class="overlay">Witch Forest</div>
   </div>
 </div>
+</body> 
+<html> 
 
 <html> 
 <body> 
