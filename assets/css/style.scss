@@ -23,9 +23,10 @@ img {
 .container {
     position: relative;
     width: 100%; 
-    max-width: 800px;  
+    max-width: 800px;
+    height: auto;  
     margin: 20px auto;  
-    overflow: visible;
+    overflow: hidden;
     padding: 5px;
 }
 
