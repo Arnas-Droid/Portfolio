@@ -59,11 +59,17 @@ layout: default
 <div style="display:flex; flex-direction:column; align-items:center; gap:20px;"> 
 
   <div style="display:flex; justify-content:center; gap:100px;"> 
+  <div class="container">
     <a href="{{ '/2002/01/01/echoes.html' | relative_url }}"> 
       <img class="enlarge-onhover" src="{{ '/assets/EchoesOfImagination.png' | relative_url }}" alt="EchoesOfImagination" style="width:600px;height:300px;"> 
-    </a>   
+    </a> 
+    <div class="overlay">Echoes Of Imagination</div>
+  </div>
+  <div class="container">
     <a href="{{ '/2003/01/01/glut.html' | relative_url }}"> 
       <img class="enlarge-onhover" src="{{ '/assets/GLUT.png' | relative_url }}" alt="Glut" style="width:600px;height:300px;"> </a> 
+    </a>
+    <div class="overlay">GLUT</div> 
   </div>
   
   <div style="display:flex; justify-content:center; gap:100px;"> 
@@ -74,5 +80,6 @@ layout: default
       <img class="enlarge-onhover" src="{{ '/assets/BespokePlatform.png' | relative_url }}" alt="Bspoke Platform" style="width:600px;height:300px;"> 
    </a> 
   </div> 
+</div>
 </body> 
 </html>
