@@ -6,7 +6,7 @@ title: "Witch Forest"
 <html>
 <body>
   <!-- Title Section -->
-  <h1 style="text-align: center; margin-bottom: 20px;">The Witch Forest</h1>
+  <h1 style="text-align: left; margin-bottom: 20px;">The Witch Forest</h1>
 
   <!-- Video Section (Separate) -->
   <div style="text-align: center; margin-bottom: 20px;">
