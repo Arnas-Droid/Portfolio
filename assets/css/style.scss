@@ -22,6 +22,10 @@ img {
     display: inline-block;
 }
 
+.container img {
+    display: block; 
+}
+
 .overlay {
     position: absolute;
     bottom: 0;
