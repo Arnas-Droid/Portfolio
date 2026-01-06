@@ -43,6 +43,10 @@ https://github.com/Arnas-Droid/Portfolio/blob/main/FavouriteProject.md
   <img src="/images/WitchForest.png" alt="Favourite Project" width="42" height="42">
 </a>
 
+<a href="/favouriteproject/">
+  <img src="/images/WitchForest.png" alt="Favourite Project" width="42" height="42">
+</a>
+
 [![Favourite Project](/images/WitchForest.png)]({{< relref "FavouriteProject.md" >}})
 
 <html>
