@@ -74,7 +74,5 @@ layout: default
       <img class="enlarge-onhover" src="{{ '/assets/BespokePlatform.png' | relative_url }}" alt="Bspoke Platform" style="width:600px;height:300px;"> 
    </a> 
   </div> 
-
-</div> 
 </body> 
 </html>
