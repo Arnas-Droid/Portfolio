@@ -49,7 +49,11 @@ layout: default
 </body>
 </html>
 
-
+<div style="text-align: center;"> 
+  <a href="{{ '/2024/01/05/witchforest.html' | relative_url }}"> 
+    <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:42px;height:42px;"> 
+  </a> 
+</div>
 
 <a href="{{ '/2024/01/05/witchforest.html' | relative_url }}"> <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:42px;height:42px;"> </a>
 
