@@ -19,6 +19,9 @@ layout: default
 }
 ```
 
+<html>
+<body>
+<h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
 <div class="container" style="text-align:center;">
   <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
     <img class="enlarge-onhover"
@@ -26,9 +29,10 @@ layout: default
          alt="Witch Forest"
          style="width:600px;height:300px;">
   </a>
-  <div class="overlay">My Name is John</div>
+  <div class="overlay">Witch Forest</div>
 </div>
-
+</body>
+</html>
 
 
 <html>
