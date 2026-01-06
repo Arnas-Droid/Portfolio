@@ -2,9 +2,12 @@
 ---
 @import "{{ site.theme }}";
 
-
 img {
   border: 5px solid #555555;
+  display: block;
+  width: 100%;
+  height: 300px;
+  transition: transform 0.3s ease, border-radius 0.3s ease;
 }
 
 .container {
@@ -23,7 +26,7 @@ img {
     transition: transform 0.3s ease, border-radius 0.3s ease;
 }
 
-.container:hover img {
+.container img:hover {
     transform: scale(1.05);
     border-radius: 10px;
 }
@@ -39,6 +42,5 @@ img {
     padding: 12px;
     box-sizing: border-box;
     pointer-events: none;
-    transition: opacity 0.3s ease;
     text-align: center;
 }
