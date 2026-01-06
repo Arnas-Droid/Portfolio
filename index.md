@@ -3,8 +3,6 @@ title: Home
 layout: default
 ---
 
-<div class="projects-wrapper">
-
 <html>
 <body>
 <h1 style="text-align:center;">Introduction</h1>
@@ -74,7 +72,5 @@ layout: default
   </div> 
 
 </div> 
-
-</div>
 </body> 
 </html>
