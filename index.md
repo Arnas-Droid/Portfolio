@@ -32,7 +32,7 @@ title: Home
     <div class="overlay">Witch Forest</div>
   </div>
 </div>
-</body> 
+<body> 
 <html> 
 
 <html> 
@@ -49,8 +49,8 @@ title: Home
   <div class="overlay">Witch Forest</div>
 </div>
 </div>
-</body> 
-</html>
+<body> 
+<html>
 
 <html> 
 <body> 
@@ -66,8 +66,8 @@ title: Home
   <div class="overlay">Arcade</div>
 </div>
 </div>
-</body> 
-</html>
+<body> 
+<html>
 
 <html> 
 <body> 
@@ -97,5 +97,5 @@ title: Home
    </a> 
   </div> 
 </div>
-</body> 
-</html>
+<body> 
+<html>
