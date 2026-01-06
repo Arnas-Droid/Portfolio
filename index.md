@@ -53,6 +53,8 @@ layout: default
 
 [Go to Favourite Project]({{< relref "favouriteproject.md" >}})
 
+[Go to Favourite Project](/Portfolio/favouriteproject/)
+
 <html>
 <body>
 <h1 style="text-align:center;">Personal Project</h1>
