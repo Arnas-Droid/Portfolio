@@ -19,6 +19,8 @@ layout: default
 }
 ```
 
+<html> 
+<body> 
 <h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
 <div class="container" style="text-align:center;">
   <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
@@ -29,7 +31,11 @@ layout: default
   </a>
   <div class="overlay">Witch Forest</div>
 </div>
+</body> 
+</html>
 
+<html> 
+<body> 
 <h1 style="text-align:center;">Personal Project</h1>
 <div class="container" style="text-align:center;">
   <a href="{{ '/2001/01/01/arcade.html' | relative_url }}">
@@ -40,6 +46,8 @@ layout: default
   </a>
   <div class="overlay">Arcade</div>
 </div>
+</body> 
+</html>
 
 <html> 
 <body> 
