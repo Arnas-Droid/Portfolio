@@ -3,11 +3,8 @@ title: Home
 layout: default
 ---
 
-<html>
 <body>
 <h1 style="text-align:center;">Introduction</h1>
-</body>
-</html>
 
 ```c++
 {
@@ -15,9 +12,19 @@ layout: default
   string uni = "University of Staffordshire";
   string major = "Computer Games Programming";
   string favouriteSubject = "Graphics";
-  int year = Third year;
+  string year = "Third year";
 }
 ```
+
+  <h1>Personal Favourite Project</h1>
+  <div class="gallery">
+    <div class="container">
+      <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
+        <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest">
+      </a>
+      <div class="overlay">Witch Forest</div>
+    </div>
+  </div>
 
 <html> 
 <body> 
