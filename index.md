@@ -48,7 +48,7 @@ layout: default
 
   <div style="display:flex; justify-content:center; gap:20px;"> 
     <a href="{{ '/2002/01/01/echoes.html' | relative_url }}"> 
-      <img src="{{ '/assets/EchoesOfImagination.png' | relative_url }}" alt="Witch Forest" style="width:315px;height:315px;"> 
+      <img src="{{ '/assets/EchoesOfImagination.png' | relative_url }}" alt="EchoesOfImagination" style="width:315px;height:315px;"> 
     </a>   
     <a href="{{ '/2003/01/01/glut.html' | relative_url }}"> 
       <img src="{{ '/assets/GLUT.png' | relative_url }}" alt="Glut" style="width:315px;height:315px;"> </a> 
