@@ -51,7 +51,7 @@ layout: default
 
 
 
-<a href="{{ '/2024/01/05/witchforest.html' | relative_url }}"> <img src="{{ 'WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:42px;height:42px;"> </a>
+<a href="{{ '/2024/01/05/witchforest.html' | relative_url }}"> <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:42px;height:42px;"> </a>
 
 <html>
 <body>
