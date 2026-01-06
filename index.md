@@ -35,7 +35,7 @@ layout: default
 <h1 style="text-align:center;">Personal Project</h1>
 <div style="text-align: center;"> 
   <a href="{{ '/2001/01/01/arcade.html' | relative_url }}"> 
-    <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:315px;height:315px;"> 
+    <img src="{{ '/assets/Arcade.png' | relative_url }}" alt="Witch Forest" style="width:315px;height:315px;"> 
   </a> 
 </div>
 </body>
@@ -48,19 +48,19 @@ layout: default
 <div style="display:flex; flex-direction:column; align-items:center; gap:20px;"> 
 
   <div style="display:flex; justify-content:center; gap:20px;"> 
-    <a href="{{ '/2003/01/01/unity.html' | relative_url }}"> 
-      <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:315px;height:315px;"> 
+    <a href="{{ '/2002/01/01/echoes.html' | relative_url }}"> 
+      <img src="{{ '/assets/EchoesOfImagination.png' | relative_url }}" alt="Witch Forest" style="width:315px;height:315px;"> 
     </a>   
-    <a href="{{ '/2026/01/06/another.html' | relative_url }}"> 
-      <img src="{{ '/assets/AnotherImage.png' | relative_url }}" alt="Another Image" style="width:315px;height:315px;"> </a> 
+    <a href="{{ '/2003/01/01/glut.html' | relative_url }}"> 
+      <img src="{{ '/assets/GLUT.png' | relative_url }}" alt="Glut" style="width:315px;height:315px;"> </a> 
   </div>
   
   <div style="display:flex; justify-content:center; gap:20px;"> 
-   <a href="{{ '/2026/01/06/third.html' | relative_url }}"> 
-      <img src="{{ '/assets/ThirdImage.png' | relative_url }}" alt="Third Image" style="width:315px;height:315px;">
+   <a href="{{ '/2004/01/01/physics.html' | relative_url }}"> 
+      <img src="{{ '/assets/Physics.png' | relative_url }}" alt="Physics" style="width:315px;height:315px;">
     </a> 
-    <a href="{{ '/2026/01/06/fourth.html' | relative_url }}"> 
-      <img src="{{ '/assets/FourthImage.png' | relative_url }}" alt="Fourth Image" style="width:315px;height:315px;"> 
+    <a href="{{ '/2005/01/01/bespoke.html' | relative_url }}"> 
+      <img src="{{ '/assets/BespokePlatform.png' | relative_url }}" alt="Bspoke Platform" style="width:315px;height:315px;"> 
    </a> 
   </div> 
 </div> 
