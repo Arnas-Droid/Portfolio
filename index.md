@@ -3,17 +3,6 @@ title: Home
 layout: default
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
-
-<!-- Debugging Output -->
-<p>Total posts: {{ site.posts | size }}</p>
-
 <html>
 <body>
 <h1 style="text-align:center;">Introduction</h1>
@@ -33,45 +22,22 @@ layout: default
 <html>
 <body>
 <h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p><strong>Witch Forest</strong></p>
-    <p>Using DirectX11 I learned more about graphic pipelines and how to create a 3D environment that used the pipeline for rendering lighting and shading models. Using this knowledge, I created the witch forest, which came to me as an idea through my heritage. My biggest struggle came when I was creating the scene graph hierarchy since I couldn’t wrap my head around when it came to using functions that would access different files. While I could make it work if it was created in main to me it felt like it wasn’t done correct and made aspects harder to follow if someone from the outside viewpoint would look at it. In the end I was able to create it, but it had problems that in future projects I would make sure to approach differently. Currently my favourite piece of work.</p>
-  </div>
-  <div style="flex: 1;">
-    <iframe width="100%" height="315" 
-      src="https://www.youtube.com/embed/hXlKtwVcpxY" 
-      frameborder="0" 
-      allowfullscreen>
-    </iframe>
-  </div>
+<div style="text-align: center;"> 
+  <a href="{{ '/2024/01/05/witchforest.html' | relative_url }"> 
+    <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:315px;height:315px;"> 
+  </a> 
 </div>
 </body>
 </html>
 
-<div style="text-align: center;"> 
-  <a href="{{ '/2024/01/05/witchforest.html' | relative_url }}"> 
-    <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:42px;height:42px;"> 
-  </a> 
-</div>
-
-<a href="{{ '/2024/01/05/witchforest.html' | relative_url }}"> <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:42px;height:42px;"> </a>
 
 <html>
 <body>
 <h1 style="text-align:center;">Personal Project</h1>
-<h2 style="text-align:left;">Arcade</h2>
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>Started a project to make little games for my phone. Mostly to make and then play games that look intresting without ads.</p>
-  </div>
-  <div style="flex: 1;">
-    <iframe width="100%" height="315" 
-      src="https://www.youtube.com/embed/f11iR2Dcong" 
-      frameborder="0" 
-      allowfullscreen>
-    </iframe>
-  </div>
+<div style="text-align: center;"> 
+  <a href="{{ '/2026/01/06/unity.html' | relative_url }}"> 
+    <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:315px;height:315px;"> 
+  </a> 
 </div>
 </body>
 </html>
