@@ -64,14 +64,7 @@ Got
       <img src="{{ '/assets/BespokePlatform.png' | relative_url }}" alt="Bspoke Platform" style="width:600px;height:300px;"> 
    </a> 
   </div> 
-
-  <div style="display:flex; justify-content:center; gap:100px;"> 
-    <a href="{{ '/2004/01/01/physics.html' | relative_url }}"> 
-      <img src="{{ '/assets/Physics.png' | relative_url }}" alt="Physics" style="width:600px;height:300px;"> 
-    </a>   
-    <a href="{{ '/2005/01/01/bespoke.html' | relative_url }}"> 
-      <img src="{{ '/assets/GLUT.png' | relative_url }}" alt="Glut" style="width:600px;height:300px;"> </a> 
-  </div>
+  
 </div> 
 </body> 
 </html>
