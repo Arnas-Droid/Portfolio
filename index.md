@@ -53,7 +53,7 @@ layout: default
 
 [Go to Favourite Project]({{< relref "favouriteproject.md" >}})
 
-[Go to Favourite Project](/Portfolio/favouriteproject/)
+[Go to Favourite Project](/content/favouriteproject/)
 
 <html>
 <body>
