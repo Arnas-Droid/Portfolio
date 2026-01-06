@@ -25,7 +25,8 @@ layout: default
 <div style="text-align: center;">
 <div class="image-wrapper"> 
   <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}"> 
-    <img class="enlarge-onhover" src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:600px;height:300px;"> 
+    <img class="enlarge-onhover" src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" 
+    style="width:600px;height:300px;padding:1px;border:thin solid black;"> 
   </a> 
 </div>
 </div>
