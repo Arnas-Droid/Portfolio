@@ -2,6 +2,13 @@
 ---
 @import "{{ site.theme }}";
 
+.post-meta, /* common meta container */
+.post-date,
+.post-author,
+.post-tags {
+    display: none;
+}
+
 img {
   border: 5px solid #555555;
   display: block;
