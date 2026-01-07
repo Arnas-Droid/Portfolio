@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
@@ -10,7 +11,7 @@
 
   <!-- Home Button -->
   <div style="text-align:center; margin-top:20px;">
-    <a href="{{ '/' | relative_url }}" 
+    <a href="{{ site.baseurl | relative_url }}" 
        style="padding:10px 20px; background:#00ff00; color:#000; text-decoration:none; border-radius:5px; font-weight:bold;">
        Home
     </a>
