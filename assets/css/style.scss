@@ -15,29 +15,26 @@ img {
   border: 5px solid #555555;
   display: block;
   width: 100%;
-  height: auto;  /* Keeps aspect ratio */
+  height: auto;  
   transition: transform 0.3s ease, border-radius 0.3s ease;
   box-sizing: border-box;
-  object-fit: cover;  /* Ensures the image covers the container area */
+  object-fit: cover;  
 }
 
-/* Container that holds the image */
 .container {
   position: relative;
-  width: 100%;  /* Makes the container responsive */
-  max-width: 800px;  /* Ensures container doesn’t exceed 800px */
-  margin: 20px auto;  /* Centers the container */
-  overflow: hidden;  /* Prevents image overflow during zoom */
+  width: 100%; 
+  max-width: 800px; 
+  margin: 20px auto;  
+  overflow: hidden; 
   padding: 5px;
 }
 
-/* Image hover effect */
 .container img:hover {
-  transform: scale(1.05);  /* Zoom effect */
-  border-radius: 10px;  /* Rounded corners on hover */
+  transform: scale(1.05); 
+  border-radius: 10px; 
 }
 
-/* Overlay for the image */
 .overlay {
   position: absolute;
   bottom: 0;
