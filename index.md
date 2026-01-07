@@ -9,6 +9,8 @@ title: Home
 <body> 
 <html> 
 
+<html> 
+<body>
 ```c++
 {
   string name = "Arnas Puidokas";
@@ -18,6 +20,8 @@ title: Home
   string year = "Third year";
 }
 ```
+<body> 
+<html> 
 
 <html> 
 <body>
