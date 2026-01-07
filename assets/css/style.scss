@@ -2,12 +2,8 @@
 ---
 @import "{{ site.theme }}";
 
-small {
+small, .tags, .author{
   display: none;
-}
-
-.post-meta, .post-date, .author, .tags {
-    display: none !important;
 }
 
 img {
