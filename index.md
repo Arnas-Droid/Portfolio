@@ -6,11 +6,9 @@ title: Home
 <html> 
 <body>
 <h1 style="text-align:center;">Introduction</h1>
-<body> 
-<html> 
+</body> 
+</html> 
 
-<html> 
-<body>
 ```c++
 {
   string name = "Arnas Puidokas";
@@ -20,8 +18,6 @@ title: Home
   string year = "Third year";
 }
 ```
-<body> 
-<html> 
 
 <html> 
 <body>
@@ -34,8 +30,8 @@ title: Home
       <div class="overlay">Witch Forest</div>
     </div>
   </div>
-<body> 
-<html> 
+</body> 
+</html> 
 
 <html> 
 <body>
@@ -48,8 +44,8 @@ title: Home
       <div class="overlay">Arcade</div>
     </div>
   </div>
-<body> 
-<html> 
+</body> 
+</html> 
 
 <html> 
 <body>
@@ -90,5 +86,5 @@ title: Home
 </div>
 
 </div>
-<body> 
-<html>
+</body> 
+</html>
