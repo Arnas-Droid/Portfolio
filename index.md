@@ -29,7 +29,7 @@ title: Home
   <div style="text-align:center;">
     <div class="container">
       <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
-        <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:800px;height:300px;">>
+        <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:800px;height:300px;">
       </a>
       <div class="overlay">Witch Forest</div>
     </div>
@@ -43,7 +43,7 @@ title: Home
   <div style="text-align:center;">
     <div class="container">
       <a href="{{ '/2000/01/01/arcade.html' | relative_url }}">
-        <img src="{{ '/assets/Arcade.png' | relative_url }}" alt="Arcade Games" style="width:800px;height:300px;">>
+        <img src="{{ '/assets/Arcade.png' | relative_url }}" alt="Arcade Games" style="width:800px;height:300px;">
       </a>
       <div class="overlay">Arcade</div>
     </div>
@@ -59,14 +59,14 @@ title: Home
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div class="container">
     <a href="{{ '/2002/01/01/echoes.html' | relative_url }}">
-      <img class="enlarge-onhover" src="{{ '/assets/EchoesOfImagination.png' | relative_url }}" alt="Echoes Of Imagination">
+      <img class="enlarge-onhover" src="{{ '/assets/EchoesOfImagination.png' | relative_url }}" alt="Echoes Of Imagination" style="width:800px;height:300px;">
       </a>
     <div class="overlay">Echoes Of Imagination</div>
   </div>
 
   <div class="container">
     <a href="{{ '/2003/01/01/glut.html' | relative_url }}">
-      <img class="enlarge-onhover" src="{{ '/assets/GLUT.png' | relative_url }}" alt="Glut">
+      <img class="enlarge-onhover" src="{{ '/assets/GLUT.png' | relative_url }}" alt="Glut" style="width:800px;height:300px;">
       </a>
     <div class="overlay">GLUT</div>
   </div>
@@ -76,14 +76,14 @@ title: Home
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div class="container">
     <a href="{{ '/2004/01/01/physics.html' | relative_url }}">
-      <img class="enlarge-onhover" src="{{ '/assets/Physics.png' | relative_url }}" alt="Physics">
+      <img class="enlarge-onhover" src="{{ '/assets/Physics.png' | relative_url }}" alt="Physics" style="width:800px;height:300px;">
       </a>
     <div class="overlay">Physics</div>
   </div>
 
   <div class="container">
     <a href="{{ '/2005/01/01/bespoke.html' | relative_url }}">
-      <img class="enlarge-onhover" src="{{ '/assets/BespokePlatform.png' | relative_url }}" alt="Bespoke Platform">
+      <img class="enlarge-onhover" src="{{ '/assets/BespokePlatform.png' | relative_url }}" alt="Bespoke Platform" style="width:800px;height:300px;">
       </a>
     <div class="overlay">Bespoke Platform</div>
   </div>
