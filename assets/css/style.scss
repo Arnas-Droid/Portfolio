@@ -2,7 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-small, .tags, .author{
+p.view, small, .tags, .date{
   display: none;
 }
 
