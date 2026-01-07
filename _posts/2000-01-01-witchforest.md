@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Witch Forest"
-aurthor: Arnas
 ---
 
 <html>
