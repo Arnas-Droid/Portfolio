@@ -4,4 +4,3 @@ plugins:
 title: Arnas Puidokas
 description: Portfolio
 future: true
-permalink: /:title/
