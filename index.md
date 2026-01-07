@@ -29,7 +29,7 @@ title: Home
   <div style="text-align:center;">
     <div class="container">
       <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
-        <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest">
+        <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:800px;height:300px;">>
       </a>
       <div class="overlay">Witch Forest</div>
     </div>
@@ -43,7 +43,7 @@ title: Home
   <div style="text-align:center;">
     <div class="container">
       <a href="{{ '/2000/01/01/arcade.html' | relative_url }}">
-        <img src="{{ '/assets/Arcade.png' | relative_url }}" alt="Arcade Games">
+        <img src="{{ '/assets/Arcade.png' | relative_url }}" alt="Arcade Games" style="width:800px;height:300px;">>
       </a>
       <div class="overlay">Arcade</div>
     </div>
