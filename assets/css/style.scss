@@ -2,10 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-small {
-  display: none;
-}
-
 .post-meta, .post-date, .author, .tags {
     display: none !important;
 }
