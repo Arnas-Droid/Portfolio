@@ -84,6 +84,12 @@ img {
   border-radius: 3px 0 0 3px;
 }
 
+.row {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
 .column {
   float: left;
   width: 25%;
