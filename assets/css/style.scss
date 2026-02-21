@@ -30,6 +30,13 @@ img {
   border-radius: 10px; 
 }
 
+.imgSlide {
+  width: 560px;
+  height: auto;
+  max-width: 100%;
+  object-fit: contain;
+  margin: 0 auto 20px;
+
 .containerSlide {
   position: relative;
 }
