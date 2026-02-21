@@ -85,21 +85,16 @@ img {
   text-align: center;
 }
 
-.gallery {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-gap: 10px;
-max-width: 900px;
-margin: auto;
+.slide-img {
+  width: 560px;    
+  height: auto;       
+  max-width: 100%;  
+  display: block;
+  margin: 0 auto 20px; 
 }
 
-.gallery-item {
-overflow: hidden;
-border-radius: 10px;
-}
-
-.gallery-item img {
-width: 100%;
-height: auto;
-display: block;
+.thumb-img {
+  width: 120px;
+  height: auto;
+  cursor: pointer;
 }
