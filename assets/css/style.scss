@@ -43,3 +43,22 @@ img {
   pointer-events: none;
   text-align: center;
 }
+
+.gallery {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+gap: 10px;
+max-width: 900px;
+margin: auto;
+}
+
+.gallery-item {
+overflow: hidden;
+border-radius: 10px;
+}
+
+.gallery-item img {
+width: 100%;
+height: auto;
+display: block;
+}
