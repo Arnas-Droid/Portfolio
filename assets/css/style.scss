@@ -2,6 +2,12 @@
 ---
 @import "{{ site.theme }}";
 
+@media (max-width: 900px) {
+  .content-row {
+    flex-direction: column;
+  }
+}
+
 p.view, small, .tags, .date{
   display: none;
 }
