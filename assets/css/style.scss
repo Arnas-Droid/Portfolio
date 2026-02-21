@@ -57,7 +57,10 @@ img {
 }
 
 .mySlides {
-  display: none;
+  display: flex;         
+  justify-content: center;  
+  align-items: center;      
+  margin-bottom: 20px;        
 }
 
 .prev,
