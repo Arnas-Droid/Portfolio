@@ -21,7 +21,7 @@ title: Home
 
 <html> 
 <body>
-<h1 style="text-align:center;">Personal Favourite Project (University Project)</h1>
+<h1 style="text-align:center;">Favourite Project (University Module)</h1>
   <div style="text-align:center;">
     <div class="container">
       <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
