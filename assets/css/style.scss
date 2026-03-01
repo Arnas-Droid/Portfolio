@@ -74,6 +74,15 @@ p.view, small, .tags, .date{
   transform: none;
 }
 
+.project-gallery iframe {
+  width: 100%;
+  max-width: 560px;
+  height: auto;
+  aspect-ratio: 16/9;
+  display: block;
+  margin: 0 auto 20px;
+}
+
 .slide {
   display: flex;     
   justify-content: center;  
