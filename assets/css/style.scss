@@ -6,7 +6,7 @@
   .content-row {
     flex-direction: column;
   }
-}
+} // Check if used
 
 p.view, small, .tags, .date{
   display: none;
@@ -46,16 +46,8 @@ p.view, small, .tags, .date{
   border-radius: 10px; 
 }
 
-.imgSlide {
-  width: 560px;
-  height: auto;
-  max-width: 100%;
-  object-fit: contain;
-  margin: 0 auto 20px;
-}
-
 .containerSlide img {
-  position: relative;
+  /*position: relative;*/
   margin-bottom: 40px;
 }
 
@@ -72,8 +64,6 @@ p.view, small, .tags, .date{
 
 .mySlides {
   display: flex;     
-  // width: 560px;    
-  // height: 315px;//auto;       
   justify-content: center;  
   align-items: center;      
   margin-bottom: 20px;        
@@ -107,7 +97,7 @@ p.view, small, .tags, .date{
 }
 
 .column {
-  float: left;
+  //float: left;
   width: 25%;
 }
 
