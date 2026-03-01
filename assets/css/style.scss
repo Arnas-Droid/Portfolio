@@ -62,6 +62,10 @@ p.view, small, .tags, .date{
 }
 
 /* Project Gallery Slides */
+.project-gallery {
+  position: relative;
+}
+
 .project-gallery img {
   margin-bottom: 40px;
 }
