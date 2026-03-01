@@ -56,7 +56,7 @@ p.view, small, .tags, .date{
 
 /* Project Pay Layout */
 .project-content {
-  margin-top: 40px;
+  margin-top: 10px;
   padding: 0 20px;
   text-align: justify;
 }
@@ -67,7 +67,7 @@ p.view, small, .tags, .date{
 }
 
 .project-gallery img {
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 
 .project-gallery img:hover {
@@ -100,14 +100,6 @@ p.view, small, .tags, .date{
   display: block;
   margin: 0 auto 20px;
 }
-
-// .slide-img {
-//   width: 560px;    
-//   height: 315px;      
-//   max-width: 100%;  
-//   display: block;
-//   margin: 0 auto 20px; 
-// }
 
 /* Gallery Navigation */
 .prev,
