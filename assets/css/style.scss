@@ -59,6 +59,10 @@ p.view, small, .tags, .date{
   margin-bottom: 40px;
 }
 
+.containerSlide img:hover {
+  transform: none;
+}
+
 .caption-containerSlide {
   text-align: center;
   background-color: #222;
