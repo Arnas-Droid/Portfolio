@@ -12,15 +12,15 @@ p.view, small, .tags, .date{
   display: none;
 }
 
-img {
-  border: 5px solid #555555;
-  display: block;
-  width: 100%;
-  height: auto;  
-  transition: transform 0.3s ease, border-radius 0.3s ease;
-  box-sizing: border-box;
-  object-fit: cover;  
-}
+// img {
+//   border: 5px solid #555555;
+//   display: block;
+//   width: 100%;
+//   height: auto;  
+//   transition: transform 0.3s ease, border-radius 0.3s ease;
+//   box-sizing: border-box;
+//   object-fit: cover;  
+// } 
 
 .container {
   position: relative;
@@ -29,6 +29,16 @@ img {
   margin: 20px auto;  
   overflow: hidden; 
   padding: 5px;
+}
+
+.container img {
+  border: 5px solid #555555;
+  display: block;
+  width: 100%;
+  height: auto;  
+  transition: transform 0.3s ease, border-radius 0.3s ease;
+  box-sizing: border-box;
+  object-fit: cover;  
 }
 
 .container img:hover {
