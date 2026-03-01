@@ -22,7 +22,8 @@ p.view, small, .tags, .date{
 //   object-fit: cover;  
 // } 
 
-.container {
+/* Containers */
+.project-container {
   position: relative;
   width: 100%; 
   max-width: 800px; 
@@ -31,7 +32,7 @@ p.view, small, .tags, .date{
   padding: 5px;
 }
 
-.container img {
+.project-container img {
   border: 5px solid #555555;
   display: block;
   width: 100%;
@@ -41,7 +42,7 @@ p.view, small, .tags, .date{
   object-fit: cover;  
 }
 
-.container img:hover {
+.project-container img:hover {
   transform: scale(1.05); 
   border-radius: 10px; 
 }
