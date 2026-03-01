@@ -90,6 +90,15 @@ p.view, small, .tags, .date{
   margin-bottom: 20px;        
 }
 
+.slide iframe {
+  width: 100%;
+  max-width: 560px;
+  height: auto;
+  aspect-ratio: 16/9;
+  display: block;
+  margin: 0 auto 20px;
+}
+
 .slide-img {
   width: 560px;    
   height: 315px;      
