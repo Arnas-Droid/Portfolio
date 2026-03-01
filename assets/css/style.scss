@@ -91,6 +91,7 @@ p.view, small, .tags, .date{
   min-height: 315px;    
 }
 
+.slide img,
 .slide iframe {
   width: 100%;
   max-width: 560px;
@@ -100,13 +101,13 @@ p.view, small, .tags, .date{
   margin: 0 auto 20px;
 }
 
-.slide-img {
-  width: 560px;    
-  height: 315px;      
-  max-width: 100%;  
-  display: block;
-  margin: 0 auto 20px; 
-}
+// .slide-img {
+//   width: 560px;    
+//   height: 315px;      
+//   max-width: 100%;  
+//   display: block;
+//   margin: 0 auto 20px; 
+// }
 
 /* Gallery Navigation */
 .prev,
