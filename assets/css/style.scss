@@ -1,28 +1,21 @@
 ---
 ---
+/* Imports */
 @import "{{ site.theme }}";
 
+/* Media */
 @media (max-width: 900px) {
   .content-row {
     flex-direction: column;
   }
 } // Check if used
 
+/* Global Overrides */
 p.view, small, .tags, .date{
   display: none;
 }
 
-// img {
-//   border: 5px solid #555555;
-//   display: block;
-//   width: 100%;
-//   height: auto;  
-//   transition: transform 0.3s ease, border-radius 0.3s ease;
-//   box-sizing: border-box;
-//   object-fit: cover;  
-// } 
-
-/* Containers */
+/* Project Container (Homepage) */
 .project-container {
   position: relative;
   width: 100%; 
@@ -47,29 +40,52 @@ p.view, small, .tags, .date{
   border-radius: 10px; 
 }
 
-.containerSlide img {
-  /*position: relative;*/
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: white;
+  font-size: 24px;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 12px;
+  box-sizing: border-box;
+  pointer-events: none;
+  text-align: center;
+}
+
+/* Project Pay Layout */
+.project-content {
+  margin-top: 40px;
+  padding: 0 20px;
+  text-align: justify;
+}
+
+/* Project Gallery Slides */
+.project-gallery img {
   margin-bottom: 40px;
 }
 
-.containerSlide img:hover {
+.project-gallery img:hover {
   transform: none;
 }
 
-.caption-containerSlide {
-  text-align: center;
-  background-color: #222;
-  padding: 2px 16px;
-  color: white;
-}
-
-.mySlides {
+.slide {
   display: flex;     
   justify-content: center;  
   align-items: center;      
   margin-bottom: 20px;        
 }
 
+.slide-img {
+  width: 560px;    
+  height: 315px;//auto;       
+  max-width: 100%;  
+  display: block;
+  margin: 0 auto 20px; 
+}
+
+/* Gallery Navigation */
 .prev,
 .next {
   cursor: pointer;
@@ -91,43 +107,22 @@ p.view, small, .tags, .date{
   border-radius: 3px 0 0 3px;
 }
 
-.row {
+.caption-containerSlide {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+/* Thumbnails */
+.thumbnail-row {
   display: flex;
   justify-content: center;
   gap: 10px;
 }
 
-.column {
-  //float: left;
+.thumbnail-column {
   width: 25%;
-}
-
-.overlay {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  color: white;
-  font-size: 24px;
-  background: rgba(0, 0, 0, 0.6);
-  padding: 12px;
-  box-sizing: border-box;
-  pointer-events: none;
-  text-align: center;
-}
-
-.content {
-  margin-top: 40px;
-  padding: 0 20px;
-  text-align: justify;
-}
-
-.slide-img {
-  width: 560px;    
-  height: 315px;//auto;       
-  max-width: 100%;  
-  display: block;
-  margin: 0 auto 20px; 
 }
 
 .thumb-img {
