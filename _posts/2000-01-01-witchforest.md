@@ -51,3 +51,131 @@ title: "The Witch Forest"
 </script>
 </body>
 </html>
+
+<body>
+  <!-- Gallery Section -->
+  <section class="project-gallery">
+
+  <!-- Slide 1 (Video) -->
+  <div class="slide" style="text-align: center;">
+    <iframe
+      src="https://www.youtube.com/embed/hXlKtwVcpxY"
+      title="Witch Forest Trailer"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <!-- Slide 2 (Main Menu) -->
+  <div class="slide">
+    <img
+      src="{{ site.baseurl }}/assets/Echoes/EchoesMainMenu.png"
+      alt="Witch Forest Screenshot"
+      class="slide-img">
+  </div>
+
+  <!-- Slide 3 (Day Cycle Example) -->
+  <div class="slide">
+    <img
+      src="{{ site.baseurl }}/assets/Echoes/EchoesDayCycle.png"
+      alt="Witch Forest Screenshot"
+      class="slide-img">
+  </div>
+
+  <!-- Slide 4 (Night Cycle Example) -->
+  <div class="slide">
+    <img
+      src="{{ site.baseurl }}/assets/Echoes/EchoesNightCycle.png"
+      alt="Witch Forest Screenshot"
+      class="slide-img">
+  </div>
+
+  <!-- Navigation -->
+  <button class="prev" onclick="plusSlides(-1)" aria-label="Previous slide">❮</button>
+  <button class="next" onclick="plusSlides(1)" aria-label="Next slide">❯</button>
+
+  <!-- Caption -->
+  <div class="caption-containerSlide">
+    <p id="caption"></p>
+  </div>
+
+  <!-- Thumbnails -->
+  <div class="thumbnail-row">
+      <div class="thumbnail-column video-thumb">
+        <img
+          class="demo cursor thumb-img"
+          src="{{ site.baseurl }}/assets/Echoes/EchoesMainMenu.png"
+          onclick="currentSlide(1)"
+          alt="Gameplay Trailer">
+      </div>
+      <div class="thumbnail-column">
+        <img
+          class="demo cursor thumb-img"
+          src="{{ site.baseurl }}/assets/Echoes/EchoesMainMenu.png"
+          onclick="currentSlide(2)"
+          alt="Main Menu">
+      </div>
+      <div class="thumbnail-column">
+        <img
+          class="demo cursor thumb-img"
+          src="{{ site.baseurl }}/assets/Echoes/EchoesDayCycle.png"
+          onclick="currentSlide(3)"
+          alt="Day Cycle Example">
+      </div>
+      <div class="thumbnail-column">
+        <img
+          class="demo cursor thumb-img"
+          src="{{ site.baseurl }}/assets/Echoes/EchoesNightCycle.png"
+          onclick="currentSlide(4)"
+          alt="Night Cycle Example">
+      </div>
+    </div>
+  </section>
+
+  <!-- Project Highlights -->
+  <section class="project-content">
+    <h3>Project Highlights</h3>
+    <p>- Collaborated with 15+ people across multiple disciplines.</p>
+    <p>- Developed using Unreal Engine 5 visual scripting (blueprints).</p>
+    <p>- Tile-based and turn-based movement systems.</p>
+  </section>
+
+  <!-- Description -->
+  <section class="project-content">
+    <h3>Description</h3>
+    <p>During the project I worked with a group of developers from Stoke-on-Trent and London to create <strong>Echoes of Imagination</strong>, a tile-based puzzle game. For my role I worked as a gameplay programmer using Unreal’s blueprinting and made mechanics such as the tile-based movement, turn-based system and other minor mechanics.</p>
+    <p>Along this journey I hoped to learn C++ for Unreal; however, due to medical reasons, it was better at the time to work purely through blueprints. Besides making mechanics and fixing any bugs, I worked closely with the leads to make sure that I contributed as much as possible.</p>
+  </section>
+
+<script>
+  let slideIndex = 1;
+  showSlides(slideIndex);
+
+  function plusSlides(n) {
+  showSlides(slideIndex += n);
+  }
+
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    let i;
+    let slides = document.getElementsByClassName("slide");
+    let dots = document.getElementsByClassName("demo");
+    let captionText = document.getElementById("caption");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+    captionText.innerHTML = dots[slideIndex-1].alt;
+  }
+</script>
+
+</body>
