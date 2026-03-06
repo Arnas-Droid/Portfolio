@@ -28,7 +28,7 @@ title: "The Witch Forest"
   <!-- Slide 3 (Day Cycle Example) -->
   <div class="slide">
     <img
-      src="{{ site.baseurl }}/assets/Echoes/EchoesDayCycle.png"
+      src="{{ site.baseurl }}/assets/Witch/WitchForestSide.png"
       alt="Witch Forest Screenshot"
       class="slide-img">
   </div>
@@ -36,7 +36,7 @@ title: "The Witch Forest"
   <!-- Slide 4 (Night Cycle Example) -->
   <div class="slide">
     <img
-      src="{{ site.baseurl }}/assets/Echoes/EchoesNightCycle.png"
+      src="{{ site.baseurl }}/assets/Witch/WitchForestFar.png"
       alt="Witch Forest Screenshot"
       class="slide-img">
   </div>
@@ -69,14 +69,14 @@ title: "The Witch Forest"
       <div class="thumbnail-column">
         <img
           class="demo cursor thumb-img"
-          src="{{ site.baseurl }}/assets/Witch/WitchForestMain.png"
+          src="{{ site.baseurl }}/assets/Witch/WitchForestSide.png"
           onclick="currentSlide(3)"
           alt="Day Cycle Example">
       </div>
       <div class="thumbnail-column">
         <img
           class="demo cursor thumb-img"
-          src="{{ site.baseurl }}/assets/Witch/WitchForestMain.png"
+          src="{{ site.baseurl }}/assets/Witch/WitchForestFar.png"
           onclick="currentSlide(4)"
           alt="Night Cycle Example">
       </div>
