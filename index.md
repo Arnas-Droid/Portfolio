@@ -39,7 +39,7 @@ title: Home
   <div style="text-align:center;">
     <div class="project-container">
       <a href="{{ '/2001/01/01/arcade.html' | relative_url }}">
-        <img src="{{ '/assets/Arcade.png' | relative_url }}" alt="Arcade Games" style="width:800px;height:300px;">
+        <img src="{{ '/assets/Arcade/ArcadeGameplay.png' | relative_url }}" alt="Arcade Games" style="width:800px;height:300px;">
       </a>
       <div class="overlay">Arcade</div>
     </div>
