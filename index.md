@@ -25,7 +25,7 @@ title: Home
   <div style="text-align:center;">
     <div class="project-container">
       <a href="{{ '/2000/01/01/witchforest.html' | relative_url }}">
-        <img src="{{ '/assets/WitchForest.png' | relative_url }}" alt="Witch Forest" style="width:800px;height:300px;">
+        <img src="{{ '/assets/Witch/WitchForestMain.png' | relative_url }}" alt="Witch Forest" style="width:800px;height:300px;">
       </a>
       <div class="overlay">Witch Forest</div>
     </div>
