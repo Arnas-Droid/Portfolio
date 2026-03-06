@@ -3,55 +3,6 @@ layout: post
 title: "The Witch Forest"
 ---
 
-<html>
-<body>
-  <!-- Video Section -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <iframe width="560" height="315" 
-      src="https://www.youtube.com/embed/hXlKtwVcpxY" 
-      frameborder="0" 
-      allowfullscreen>S
-    </iframe>
-  </div>
-
-  <!-- Description Section -->
-  <div style="padding: 0 20px; text-align: justify;">
-    <p>Description: Using DirectX11, I learned more about graphic pipelines and how to create a 3D environment that utilized the pipeline for rendering lighting and shading models. Drawing inspiration from my heritage, I created the "witch forest" scene. My biggest challenge came when I was working on the scene graph hierarchy. I struggled with the idea of using functions to access different files. Although it worked when created in the main function, it felt a bit messy and harder to follow from an external viewpoint. Ultimately, I managed to build it, but there were issues I would approach differently in future projects. It's currently my favorite piece of work.</p>
-  </div>
-
-<script>
-  let slideIndex = 1;
-  showSlides(slideIndex);
-
-  function plusSlides(n) {
-  showSlides(slideIndex += n);
-  }
-
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
-    let i;
-    let slides = document.getElementsByClassName("slide");
-    let dots = document.getElementsByClassName("demo");
-    let captionText = document.getElementById("caption");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-    }
-    slides[slideIndex-1].style.display = "block";
-    dots[slideIndex-1].className += " active";
-    captionText.innerHTML = dots[slideIndex-1].alt;
-  }
-</script>
-</body>
-</html>
-
 <body>
   <!-- Gallery Section -->
   <section class="project-gallery">
@@ -69,7 +20,7 @@ title: "The Witch Forest"
   <!-- Slide 2 (Main Menu) -->
   <div class="slide">
     <img
-      src="{{ site.baseurl }}/assets/Echoes/EchoesMainMenu.png"
+      src="{{ site.baseurl }}/assets/Witch/WitchForestMain.png"
       alt="Witch Forest Screenshot"
       class="slide-img">
   </div>
@@ -104,28 +55,28 @@ title: "The Witch Forest"
       <div class="thumbnail-column video-thumb">
         <img
           class="demo cursor thumb-img"
-          src="{{ site.baseurl }}/assets/Echoes/EchoesMainMenu.png"
+          src="{{ site.baseurl }}/assets/Witch/WitchForestMain.png"
           onclick="currentSlide(1)"
           alt="Gameplay Trailer">
       </div>
       <div class="thumbnail-column">
         <img
           class="demo cursor thumb-img"
-          src="{{ site.baseurl }}/assets/Echoes/EchoesMainMenu.png"
+          src="{{ site.baseurl }}/assets/Witch/WitchForestMain.png"
           onclick="currentSlide(2)"
           alt="Main Menu">
       </div>
       <div class="thumbnail-column">
         <img
           class="demo cursor thumb-img"
-          src="{{ site.baseurl }}/assets/Echoes/EchoesDayCycle.png"
+          src="{{ site.baseurl }}/assets/Witch/WitchForestMain.png"
           onclick="currentSlide(3)"
           alt="Day Cycle Example">
       </div>
       <div class="thumbnail-column">
         <img
           class="demo cursor thumb-img"
-          src="{{ site.baseurl }}/assets/Echoes/EchoesNightCycle.png"
+          src="{{ site.baseurl }}/assets/Witch/WitchForestMain.png"
           onclick="currentSlide(4)"
           alt="Night Cycle Example">
       </div>
@@ -135,16 +86,16 @@ title: "The Witch Forest"
   <!-- Project Highlights -->
   <section class="project-content">
     <h3>Project Highlights</h3>
-    <p>- Collaborated with 15+ people across multiple disciplines.</p>
-    <p>- Developed using Unreal Engine 5 visual scripting (blueprints).</p>
-    <p>- Tile-based and turn-based movement systems.</p>
+    <p>- .</p>
+    <p>- .</p>
+    <p>- .</p>
   </section>
 
   <!-- Description -->
   <section class="project-content">
     <h3>Description</h3>
-    <p>During the project I worked with a group of developers from Stoke-on-Trent and London to create <strong>Echoes of Imagination</strong>, a tile-based puzzle game. For my role I worked as a gameplay programmer using Unreal’s blueprinting and made mechanics such as the tile-based movement, turn-based system and other minor mechanics.</p>
-    <p>Along this journey I hoped to learn C++ for Unreal; however, due to medical reasons, it was better at the time to work purely through blueprints. Besides making mechanics and fixing any bugs, I worked closely with the leads to make sure that I contributed as much as possible.</p>
+    <p>Using DirectX11, I learned more about graphic pipelines and how to create a 3D environment that utilized the pipeline for rendering lighting and shading models. Drawing inspiration from my heritage, I created the <strong>Witch Forest</strong> scene.</p>
+    <p>My biggest challenge came when I was working on the scene graph hierarchy. I struggled with the idea of using functions to access different files. Although it worked when created in the main function, it felt a bit messy and harder to follow from an external viewpoint. Ultimately, I managed to build it, but there were issues I would approach differently in future projects. It's currently my favorite piece of work.</p>
   </section>
 
 <script>
