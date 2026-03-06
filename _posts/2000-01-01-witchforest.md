@@ -57,28 +57,28 @@ title: "The Witch Forest"
           class="demo cursor thumb-img"
           src="{{ site.baseurl }}/assets/Witch/WitchForestMain.png"
           onclick="currentSlide(1)"
-          alt="Gameplay Trailer">
+          alt="Demo Trailer">
       </div>
       <div class="thumbnail-column">
         <img
           class="demo cursor thumb-img"
           src="{{ site.baseurl }}/assets/Witch/WitchForestMain.png"
           onclick="currentSlide(2)"
-          alt="Main Menu">
+          alt="Close up perspective">
       </div>
       <div class="thumbnail-column">
         <img
           class="demo cursor thumb-img"
           src="{{ site.baseurl }}/assets/Witch/WitchForestSide.png"
           onclick="currentSlide(3)"
-          alt="Day Cycle Example">
+          alt="Side profile">
       </div>
       <div class="thumbnail-column">
         <img
           class="demo cursor thumb-img"
           src="{{ site.baseurl }}/assets/Witch/WitchForestFar.png"
           onclick="currentSlide(4)"
-          alt="Night Cycle Example">
+          alt="Far away">
       </div>
     </div>
   </section>
