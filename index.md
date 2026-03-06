@@ -62,7 +62,7 @@ title: Home
 
   <div class="project-container">
     <a href="{{ '/2003/01/01/glut.html' | relative_url }}">
-      <img class="enlarge-onhover" src="{{ '/assets/GLUT.png' | relative_url }}" alt="Glut" style="width:800px;height:300px;">
+      <img class="enlarge-onhover" src="{{ '/assets/GLUT/GLUTMainImage.png' | relative_url }}" alt="Glut" style="width:800px;height:300px;">
       </a>
     <div class="overlay">GLUT</div>
   </div>
