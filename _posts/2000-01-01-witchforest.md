@@ -17,7 +17,7 @@ title: "The Witch Forest"
     </iframe>
   </div>
 
-  <!-- Slide 2 (Main Menu) -->
+  <!-- Slide 2 (Close up) -->
   <div class="slide">
     <img
       src="{{ site.baseurl }}/assets/Witch/WitchForestMain.png"
@@ -25,7 +25,7 @@ title: "The Witch Forest"
       class="slide-img">
   </div>
 
-  <!-- Slide 3 (Day Cycle Example) -->
+  <!-- Slide 3 (Side Profile) -->
   <div class="slide">
     <img
       src="{{ site.baseurl }}/assets/Witch/WitchForestSide.png"
@@ -33,7 +33,7 @@ title: "The Witch Forest"
       class="slide-img">
   </div>
 
-  <!-- Slide 4 (Night Cycle Example) -->
+  <!-- Slide 4 (Far Away) -->
   <div class="slide">
     <img
       src="{{ site.baseurl }}/assets/Witch/WitchForestFar.png"
