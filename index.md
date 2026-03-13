@@ -71,10 +71,10 @@ title: Home
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div class="project-container">
-    <a href="{{ '/2004/01/01/physics.html' | relative_url }}">
-      <img class="enlarge-onhover" src="{{ '/assets/Physics.png' | relative_url }}" alt="Physics" style="width:800px;height:300px;">
+    <a href="{{ '/2004/01/01/lowLevel.html' | relative_url }}">
+      <img class="enlarge-onhover" src="{{ '/assets/LowLevel/LowLevelMainImage.png' | relative_url }}" alt="Low Level" style="width:800px;height:300px;">
       </a>
-    <div class="overlay">Physics</div>
+    <div class="overlay">Low Level Optimisation</div>
   </div>
 
   <div class="project-container">
